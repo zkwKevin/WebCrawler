@@ -1,5 +1,5 @@
 # WebCrawler
-Some crawlers which are used to make my life more convenient, and it can also use for machine learning.
+Some crawlers which are used to make my life more convenient, and it also can be used for machine learning.
 
 ## Getting started
 1. Install python3 on your laptop
